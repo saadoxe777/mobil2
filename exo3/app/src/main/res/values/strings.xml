@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">exo3</string>
+
+    <string-array name="scale_array">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+    </string-array>
+</resources>
